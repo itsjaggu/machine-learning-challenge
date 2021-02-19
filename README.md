@@ -1,10 +1,10 @@
 # machine-learning-challenge
 
-Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system. The [Exoplanet Data](Models\exoplanet_data.csv) has various observations for the planets. We have used following supervised learning models to train the data:
+Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system. The [Exoplanet Data](Models/exoplanet_data.csv) has various observations for the planets. We have used following supervised learning models to train the data:
 
-* [Decision Tree](Models\model_1.ipynb)
+* [Decision Tree](Models/model_1.ipynb)
 
-* [Random Forest](Models\model_2.ipynb)
+* [Random Forest](Models/model_2.ipynb)
 
 ## Decision Tree
 
